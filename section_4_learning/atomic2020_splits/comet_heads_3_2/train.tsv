@@ -1,0 +1,69 @@
+PersonX does a bunk @@ oEffect	none
+PersonX accompanies PersonY far @@ oEffect	- gets to see new places
+PersonX wraps PersonY's legs @@ oEffect	is out of breath
+PersonX meets a girl named PersonY @@ oReact	curious
+PersonX quickly left ___ @@ oReact	none
+PersonX puts PersonY to shame @@ oReact	upset
+PersonX places PersonY's ___ at the disposal @@ oWant	to take orders from PersonX
+PersonX meets PersonY mother @@ oWant	to invite him to eat
+PersonX breaks the enemy 's ___ @@ oWant	retreat
+PersonX saves ___ alive @@ xAttr	careful
+PersonX imputes PersonX's ___ unto PersonY @@ xAttr	wrongdoings
+PersonX gives PersonY a kiss @@ xAttr	passionate
+PersonX attacks PersonY @@ xEffect	feels powerful
+PersonX gets PersonX's mind off it @@ xEffect	doesn't think about
+PersonX loses PersonY's balance @@ xEffect	gets bleeded
+PersonX avoids another ___ @@ xIntent	to be cautious
+PersonX maintains PersonX's position @@ xIntent	to keep his job
+PersonX increases PersonX's intelligence @@ xIntent	they want to be smarter
+PersonX eats a lot @@ xNeed	to go to a restraunt
+PersonX walks and chew gum at the same time @@ xNeed	to put it inside the mouth
+PersonX makes ___ better @@ xNeed	to learn people
+PersonX grabs PersonX's wallet @@ xReact	broke
+PersonX passes PersonY @@ xReact	Triumphant
+PersonX knows PersonX's ___ better @@ xReact	more intimate with his friend
+PersonX asks the waiter @@ xWant	ORDER MENU
+PersonX protects one 's ___ @@ xWant	to be watchful
+PersonX moves to the country @@ xWant	sleep in
+tomato apple ginger chutney @@ AtLocation	jar
+pen and pencil holder @@ AtLocation	desk
+shark @@ AtLocation	maritime museum
+camera @@ ObjectUse	take photographs
+stirrups @@ ObjectUse	assume the position
+double bass @@ ObjectUse	playing music
+person @@ Desires	worldwide peace and love
+people @@ Desires	look nice when meeting other people
+judge @@ Desires	justice
+people @@ HasProperty	sad to see another person hurt
+deflation @@ HasProperty	disastrous for balloons
+chair @@ HasProperty	found in convent
+person @@ NotDesires	egg on face
+white person @@ NotDesires	listen to rap music
+sleeper @@ NotDesires	wake up
+eye contact @@ Causes	conversation
+detergent @@ Causes	harm to fish
+car crash @@ Causes	amnesia
+attend classical concert @@ HasSubEvent	may clap
+score home run @@ HasSubEvent	hit ball with bat
+read news @@ HasSubEvent	pick nose
+rest @@ xReason	have been working hard
+go home @@ xReason	were tired
+swim @@ xReason	hot outside
+party guest @@ CapableOf	bring bottle of liquor
+person @@ CapableOf	drive van
+magician @@ CapableOf	fool audience
+neck @@ MadeUpOf	scrag
+continent @@ MadeUpOf	countries
+disease @@ MadeUpOf	syndrome
+PersonX pleases PersonY's father @@ isAfter	PersonX goes to PersonY's house
+PersonX carries out PersonX's mission @@ isAfter	PersonX hears about an incoming attack
+PersonX heads back home @@ isAfter	PersonX sits at the bus terminal
+PersonX offers to help PersonY @@ isBefore	PersonX gets out of the car to help
+PersonX finally asked PersonY @@ isBefore	PersonX and PersonY go on a date
+PersonX has to take PersonY to the doctor @@ isBefore	PersonX runs a stop sign
+PersonX saves the ___ from ruin @@ isFilledBy	phone
+PersonX wants ___ for breakfast @@ isFilledBy	wheat
+PersonX just listed ___ for sale in my shop @@ isFilledBy	furniture
+PersonX goes right away @@ HinderedBy	Does not have access to a car
+PersonX mows PersonX's grass @@ HinderedBy	It's raining outside.
+PersonX gets a tattoo @@ HinderedBy	PersonX has to pay the rent and her student loan on the 1st of the month.

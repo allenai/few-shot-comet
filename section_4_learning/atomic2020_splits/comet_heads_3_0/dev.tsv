@@ -1,0 +1,66 @@
+PersonX offer PersonY resistance @@ oEffect	PersonY resists/revolts against PersonX's actions
+PersonX puts it on PersonY's wrist @@ oEffect	gets scared and yells at personx
+PersonX drinks PersonY's coffee @@ oEffect	rolls eyes
+PersonX knocks ___ out cold @@ oReact	hurt
+PersonX finds a wallet on the ground @@ oReact	anxious
+PersonX asks ___ if PersonY could have one @@ oReact	helpful
+PersonX gives PersonY a special gift @@ oWant	She starts to cry.
+PersonX makes PersonY's case @@ oWant	Pay him for the service.
+PersonX is a soccer player @@ oWant	to win
+PersonX bakes PersonX's own bread @@ xAttr	dutiful
+PersonX expresses PersonX's thanks @@ xAttr	grateful
+PersonX loses forty pounds @@ xAttr	resourceful
+PersonX says thank you @@ xEffect	Gets thanked
+PersonX takes ___ personally @@ xEffect	gets looked down on
+PersonX speeds down the highway @@ xEffect	gets stopped by a highway patrol officer
+PersonX misses the shot @@ xIntent	none
+PersonX plays together @@ xIntent	to have fun
+give gift @@ xIntent	share with others
+PersonX never bothered @@ xNeed	worried
+PersonX saves the money @@ xNeed	none
+PersonX takes PersonY to dinner @@ xNeed	send text messages
+PersonX is completely ruined @@ xReact	desperate
+PersonX employs every ___ @@ xReact	successful
+PersonX tries new things @@ xReact	happy to have made new memories
+PersonX takes ___ to the eye doctor @@ xWant	to go home
+PersonX walks PersonY to the door @@ xWant	close the door
+PersonX goes shopping ___ @@ xWant	pay for item
+silver @@ AtLocation	dentist
+tap @@ AtLocation	soda fountain
+foyer @@ AtLocation	spacious house
+teacher @@ ObjectUse	tattle to
+vcr @@ ObjectUse	watching vcr tapes
+flyer @@ ObjectUse	find a fun event to go to
+young woman @@ Desires	new clothes
+conservationist @@ Desires	help environment
+bee @@ Desires	flower
+world @@ HasProperty	not ended yet
+exercise @@ HasProperty	good for body and mind
+credit card @@ HasProperty	similar to debit card
+nudist @@ NotDesires	cold weather
+muslim @@ NotDesires	eat pork
+hunger @@ Causes	eating
+telepathy @@ Causes	unwanted information to learned
+lighening @@ Causes	thunder
+write letter @@ HasSubEvent	think about sister
+take bus @@ HasSubEvent	waiting at bus stop
+give gift @@ HasSubEvent	people like more
+exercise @@ xReason	getting fat
+salmon @@ CapableOf	need to spawn
+explorer @@ CapableOf	sail around world
+mean guy @@ CapableOf	salt wound
+night @@ MadeUpOf	evening
+pantyhose @@ MadeUpOf	stocking
+nose @@ MadeUpOf	internasal suture
+PersonX cancels PersonX's appointment @@ isAfter	PersonX is anxious
+PersonX marries PersonY's daughter @@ isAfter	PersonX proposes to PersonY's daughter
+PersonX starts the race @@ isAfter	PersonX ties PersonX's shoes
+PersonX lights candles @@ isBefore	PersonX turns off lights
+PersonX loosens PersonY's tie @@ isBefore	PersonX goes back to their business
+PersonX browses the internet @@ isBefore	PersonX laughs at a meme
+PersonX makes ___ in the kitchen @@ isFilledBy	sandwiches
+PersonX makes ___ in terms @@ isFilledBy	pizza
+PersonX wraps ___ in a towel @@ isFilledBy	post
+PersonX moves away from home @@ HinderedBy	PersonX is too poor to afford their own place.
+PersonX wins the title @@ HinderedBy	PersonX is in last place.
+PersonX reaches PersonY understanding @@ HinderedBy	PersonX is completely clueless.

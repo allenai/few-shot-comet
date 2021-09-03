@@ -1,0 +1,557 @@
+PersonX shares ___ with PersonX's friends @@ oEffect	none
+PersonX pisses on PersonY's bonfire @@ oEffect	person y gets piss on him
+PersonX turns PersonY's ___ to matters @@ oEffect	shows grati
+PersonX wraps ___ around PersonY's neck @@ oEffect	get weighed down
+PersonX plays together @@ oEffect	enjoys PersonX's company
+PersonX gives ___ food @@ oEffect	become satisfied
+PersonX shuts PersonY's ___ to the fact @@ oEffect	ignore the fact
+PersonX makes more friends @@ oEffect	gets used to a new person in the group
+PersonX takes a long time @@ oEffect	PersonY is waiting for PersonX
+PersonX visits ___ in california @@ oEffect	has a good time
+PersonX takes so long @@ oEffect	wait for personx
+PersonX reaches the ___ in safety @@ oEffect	they tell other people
+PersonX designs PersonY system @@ oEffect	pays bill
+PersonX finds PersonX's friends @@ oEffect	crie
+PersonX buys an apple @@ oEffect	gets money
+PersonX makes PersonY sad @@ oEffect	Face turns red
+PersonX is finally born @@ oEffect	Smiles
+PersonX puts ___ around PersonY's waist @@ oEffect	jumps in surprise
+PersonX greets PersonY warmly @@ oEffect	must be nice back
+PersonX catches the thief @@ oEffect	gets arrested
+PersonX comes in handy @@ oEffect	get assistance
+PersonX throws stones at PersonY @@ oEffect	gets injured
+PersonX cries PersonY's eyes @@ oEffect	PersonY is cried on
+PersonX calls the restaurant @@ oEffect	They prepare the order
+PersonX saves the ___ from destruction @@ oEffect	they throw a party for Person X
+PersonX asks PersonY to show @@ oEffect	person Y agrees
+PersonX gives ___ to PersonX's friend @@ oEffect	becomes thrilled
+PersonX makes PersonY payment @@ oEffect	has to work more
+PersonX can not find PersonY anywhere @@ oEffect	cannot see the other person
+PersonX enforces this ___ by legislation @@ oEffect	may take actions to be in compliance with this legislation
+PersonX thanks PersonY afterwards @@ oReact	thankful
+PersonX sees also the discussion @@ oReact	connected
+PersonX achieves ___ by means @@ oReact	controlled
+PersonX injures PersonX's leg @@ oReact	none
+PersonX knows PersonY enough @@ oReact	known
+PersonX wraps ___ around PersonY's shoulders @@ oReact	comforted
+PersonX accepts PersonY's offer @@ oReact	relieved
+PersonX grabs PersonY's hands @@ oReact	warm.
+PersonX stands PersonY in good stead @@ oReact	well treated
+PersonX teaches men the ___ @@ oReact	informed
+PersonX visits ___ in california @@ oReact	excited
+PersonX has two kids @@ oReact	protected
+PersonX puts the baby @@ oReact	content.
+PersonX keeps the baby @@ oReact	mad
+PersonX invites PersonY to join @@ oReact	enjoy
+PersonX interferes in PersonY way @@ oReact	frustrated
+PersonX makes a comment @@ oReact	appreciative
+PersonX drinks PersonY's coffee @@ oReact	angry
+PersonX takes ___ to the shoe store @@ oReact	good for getting the things they need
+PersonX broadens PersonY's horizons @@ oReact	grateful
+PersonX spends the ___ talking @@ oReact	happy to have spent time with x
+PersonX performs on stage @@ oReact	inspired
+PersonX hems and haw @@ oReact	like personx wont help
+PersonX takes PersonY a long time @@ oReact	thankful for the opportunity
+PersonX learns how to juggle @@ oReact	interested
+PersonX goes too far @@ oReact	offended
+PersonX gives birth to the PersonY @@ oReact	tired.
+PersonX rubs salt in the wound @@ oReact	worse about themselves
+PersonX sees PersonY daughter @@ oReact	familiar
+PersonX invites PersonY to join PersonZ @@ oReact	nervous
+PersonX raises money @@ oWant	none
+PersonX wears ___ to school @@ oWant	to buy a similar shirt
+PersonX confronts PersonX's boss @@ oWant	walk away in anger
+PersonX is the best of friends @@ oWant	find more
+PersonX wants to travel to PersonY @@ oWant	To throw personX a party
+PersonX laughs in PersonY's face @@ oWant	to move away from PersonX
+PersonX loves halloween @@ oWant	to go trick or treating
+PersonX covers PersonY's ears @@ oWant	to ignore PersonX
+PersonX becomes PersonY wife @@ oWant	to say no
+PersonX kisses PersonX's date @@ oWant	to love in turn
+PersonX draws ___ to the importance @@ oWant	to accept the information
+PersonX serves PersonY country @@ oWant	reward that service
+PersonX closes PersonY's eyes briefly @@ oWant	to happiness
+PersonX slips from PersonY's hands @@ oWant	goes closer to person X
+PersonX loses PersonY's purse @@ oWant	to find thier purse
+PersonX eventually got fed up @@ oWant	to help them
+PersonX begs for food @@ oWant	to buy them food.
+PersonX takes PersonX's students @@ oWant	to learn more
+PersonX looks up to PersonY @@ oWant	to help person X grow
+PersonX hits the ball hard @@ oWant	catch the ball
+PersonX moves house @@ oWant	to see what the house is like
+PersonX rides tall in the saddle @@ oWant	grim back
+PersonX comes in handy @@ oWant	to learn from personX
+PersonX gives PersonY a push @@ oWant	to get their car unstuck
+PersonX really like PersonY @@ oWant	to continue the relationship
+PersonX wraps PersonY's hands @@ oWant	let go
+PersonX finds a better job @@ oWant	to negotiate the wage
+PersonX holds PersonY tighter @@ oWant	theft
+PersonX establishes PersonX's reputation @@ oWant	to find out about PersonX
+PersonX gives PersonY everything @@ oWant	to help them too
+PersonX fights PersonX's battle @@ xAttr	spirited
+PersonX makes peace @@ xAttr	peaceful
+PersonX gives the ultimate pleasure @@ xAttr	desireable
+PersonX refers the ___ to arbitration @@ xAttr	skillful
+PersonX moves away @@ xAttr	excited
+PersonX is on a fishing trip @@ xAttr	joyful
+PersonX eats cheese @@ xAttr	independent
+PersonX arrives home from lunch @@ xAttr	satiated
+PersonX keeps PersonY calm @@ xAttr	caring
+PersonX rides PersonY's motorcycle @@ xAttr	cool
+PersonX is no longer scared @@ xAttr	happy
+PersonX smokes cigarettes @@ xAttr	stressed
+PersonX never told PersonY @@ xAttr	rude
+PersonX learns how to juggle @@ xAttr	curious
+PersonX reads a time that day ___ @@ xAttr	intelligent
+PersonX makes PersonY's feel better @@ xAttr	supportive
+PersonX grabs PersonX's tools @@ xAttr	busy
+PersonX buys an old house @@ xAttr	nostalgic
+PersonX affects PersonY's interests @@ xAttr	influential
+PersonX calls PersonY 's parents @@ xAttr	considerate
+PersonX hopes would get @@ xAttr	hopeful
+PersonX reaches ___ in height @@ xAttr	proud
+PersonX persuades PersonY to stay @@ xAttr	talented
+PersonX spends too much money @@ xAttr	frivilous
+PersonX gives PersonY the command @@ xAttr	assertive
+PersonX believes every word @@ xAttr	gullible
+PersonX holds PersonY's hand @@ xAttr	friendly
+PersonX wants to try it @@ xAttr	adventurous
+PersonX affects every ___ @@ xAttr	important
+PersonX is difficult at first @@ xAttr	moody
+PersonX realizes PersonX's potential @@ xEffect	work hard
+PersonX rides a motorcycle @@ xEffect	relaxes legs
+PersonX prevents ___ from occurring @@ xEffect	elected as mayor
+PersonX stops drinking soda @@ xEffect	Person x's blood pressure is reduced
+PersonX plays together every day @@ xEffect	PersonX could get dirty.
+PersonX loses forty pounds @@ xEffect	becomes faster
+PersonX buys clothes @@ xEffect	gets receipt
+PersonX loses PersonX's purse @@ xEffect	Panics
+PersonX watches videos on youtube @@ xEffect	happy
+PersonX wins a tournament @@ xEffect	Gets paid
+PersonX refers the ___ to arbitration @@ xEffect	none
+PersonX changes PersonX's form @@ xEffect	they are changed
+PersonX makes another effort @@ xEffect	is thanked
+PersonX fulfills PersonX's purpose @@ xEffect	retires with pride
+PersonX finishes ___ first @@ xEffect	moves on to something else
+PersonX wants to be alone @@ xEffect	avoids people
+PersonX feels bad for PersonY @@ xEffect	cries
+PersonX gives ___ a special gift @@ xEffect	thanked
+PersonX pulls the ___ over PersonX's eyes @@ xEffect	to puls the wool
+PersonX works so hard @@ xEffect	gets sweaty
+PersonX keeps the baby @@ xEffect	has to take care of baby
+PersonX gives PersonY the news @@ xEffect	watches person ys reaction
+PersonX is making breakfast @@ xEffect	cleans the plate
+PersonX pours ___ over PersonY's head @@ xEffect	gets yelled at
+PersonX secures PersonY's position @@ xEffect	becomes self-important
+PersonX looks up to PersonY @@ xEffect	finds a mentor
+PersonX grinds PersonX's gears @@ xEffect	Becomes tense
+PersonX falls on PersonX's face @@ xEffect	gets stiches
+PersonX leaves ___ early @@ xEffect	Goes home
+PersonX grasps both of breasts firmly @@ xEffect	personx gets an erection
+PersonX behaves like a PersonY @@ xIntent	to be like someone else
+PersonX supplies PersonX's needs @@ xIntent	to live by himself
+PersonX blows PersonX's brains out @@ xIntent	to die
+exercise @@ xIntent	build stamina
+PersonX leaves quickly @@ xIntent	to go do something else
+PersonX starts to improve @@ xIntent	to improve for goodthing
+PersonX sounds good @@ xIntent	to give a speech
+PersonX wears it to school @@ xIntent	to be fashionable
+PersonX gives ___ some pills @@ xIntent	to be helpful
+PersonX ignores the warning @@ xIntent	none
+PersonX moves the goalposts @@ xIntent	clean up the field
+PersonX sees PersonY this afternoon @@ xIntent	to socialize
+PersonX lightens PersonY's purse @@ xIntent	to save money
+PersonX takes PersonX's students @@ xIntent	to go on a field trip
+PersonX spends too much money @@ xIntent	to buy things
+PersonX sells PersonX's ___ to the bidder @@ xIntent	he want to clear things to make space.
+PersonX lure PersonY @@ xIntent	get someone to do their bidding
+PersonX suits PersonX's convenience @@ xIntent	to take the easy way out.
+PersonX watches ___ with PersonX's girlfriend @@ xIntent	to be with loved ones
+PersonX sees past the end of PersonX's nose @@ xIntent	understand
+PersonX proves PersonY's point @@ xIntent	be right.
+PersonX watches something else @@ xIntent	to have better taste
+PersonX is on a fishing trip @@ xIntent	to enjoy their time fishing
+PersonX touches a nerve @@ xIntent	to make someone mad
+PersonX shows PersonY increase @@ xIntent	to be person
+PersonX takes silk @@ xIntent	to rise in the ranks
+PersonX seals the deal @@ xIntent	to finish a deal
+PersonX is at PersonX's friend 's house @@ xIntent	to visit friend
+PersonX gets up with the chickens @@ xIntent	to be part of the chickens
+PersonX checks every ___ @@ xIntent	to be thorough
+PersonX prevents the ___ from rising @@ xNeed	to be having control of water station
+PersonX sees PersonY's leave @@ xNeed	be with the person
+PersonX passes PersonY examination @@ xNeed	She wrote the answers on her arm.
+PersonX lays PersonX's ___ upon it @@ xNeed	to see the thing in question
+PersonX walks on the beach @@ xNeed	to drive to the location
+PersonX goes apple picking @@ xNeed	drive to orchard
+PersonX can not find PersonY's car keys @@ xNeed	to know they are lost
+PersonX cancels PersonX's appointment @@ xNeed	to decide to do other things
+PersonX takest away the ___ @@ xNeed	a desire
+PersonX feels comfortable @@ xNeed	to sit down
+PersonX wants to travel to PersonY @@ xNeed	to check for the best fare
+PersonX has two kids @@ xNeed	meet someone
+PersonX wins by a nose @@ xNeed	to train hard
+PersonX hardens pharaoh 's ___ @@ xNeed	to tell Pharaoh lies
+PersonX walks PersonY to the door @@ xNeed	conclude business with person y
+PersonX closes my eyes @@ xNeed	lift his arms
+exercise @@ xNeed	check with doctor
+PersonX left behind PersonY @@ xNeed	to be near PersonY
+PersonX feels bad @@ xNeed	to not be in a great mood
+PersonX is driving to school @@ xNeed	to sit in the car
+PersonX loves to watch tv @@ xNeed	none
+PersonX wraps ___ around PersonY's neck @@ xNeed	lunge at PersonY
+PersonX is the best man @@ xNeed	to rent a tux.
+PersonX feels bad but @@ xNeed	To be sad
+PersonX pays PersonX's debt to society @@ xNeed	incur a debt
+PersonX gets PersonY information @@ xNeed	to ask his friends
+PersonX gives PersonY an ultimatum @@ xNeed	want to end this
+PersonX stays at a friend 's house @@ xNeed	to pack a duffel bag
+PersonX builds bridges @@ xNeed	to apply for a loan
+PersonX seeks PersonY's fortunes @@ xNeed	to be jealous of PersonY
+PersonX is left behind @@ xReact	like they need to catch up a bit
+PersonX looks very nice @@ xReact	confident in their good looks
+PersonX lays PersonX's ___ upon PersonY @@ xReact	confused
+PersonX bakes PersonX's own bread @@ xReact	hungry
+PersonX is at PersonX's friend 's house @@ xReact	friendly
+PersonX expresses PersonX's thanks @@ xReact	thankful
+PersonX takes these ___ into account @@ xReact	accountable
+PersonX gives PersonY the runaround @@ xReact	irritated
+PersonX usually got ___ @@ xReact	proud and happy
+PersonX makes excuses @@ xReact	stupid
+PersonX holds PersonY's hand @@ xReact	helpful
+PersonX works hard all year @@ xReact	successful
+PersonX is a truck driver @@ xReact	dissatisfied about his job
+PersonX catches the thief @@ xReact	like they have made things right
+PersonX makes ___ upon PersonY @@ xReact	angry.
+PersonX gets stolen @@ xReact	victimized
+PersonX tries new things @@ xReact	excited
+PersonX leaves the ___ early @@ xReact	better after a long day
+PersonX walks down the road @@ xReact	invigorated
+PersonX comes ___ at night @@ xReact	connected
+PersonX works every day @@ xReact	positive that he has a chance to use his skills every day.
+PersonX proves PersonY point @@ xReact	grateful
+PersonX works like a dream @@ xReact	productive
+PersonX gives everyone ___ @@ xReact	genorous
+PersonX does well on the test @@ xReact	proud
+PersonX gives ___ PersonY's number @@ xReact	satisfied
+PersonX works hard every day @@ xReact	tired
+PersonX gives birth to a son @@ xReact	rich
+PersonX does well on PersonX's test @@ xReact	great prod
+PersonX lays a ___ upon PersonY @@ xReact	happy
+PersonX wants to try it @@ xWant	to learn a new skill
+PersonX watches ___ with PersonX's girlfriend @@ xWant	go to bed
+PersonX graduates at the top of PersonX's class @@ xWant	celebrate
+PersonX is nervous and excited @@ xWant	to push the thought out of PersonX's head
+PersonX tells a lie @@ xWant	to regret lying
+PersonX is both nervous and excited @@ xWant	to rest
+PersonX holds ___ with PersonX's forms @@ xWant	to read over them
+PersonX accepts the invitation @@ xWant	to prepare a speech
+PersonX holds hands @@ xWant	kiss
+PersonX gives the reader PersonY idea @@ xWant	to be thanked by PersonY
+PersonX watches the local news @@ xWant	To change channel
+PersonX catches PersonY's eyes @@ xWant	to talk to person y
+PersonX proves PersonY's case @@ xWant	the case to be dismissed
+PersonX sets ___ on fire @@ xWant	to kill everyone inside
+PersonX takes ___ of the children @@ xWant	to be a legal guardian
+PersonX asks PersonY's boyfriend @@ xWant	cry
+PersonX stops at the gas station @@ xWant	to pay for gas
+PersonX watches ___ at home @@ xWant	to get a snack
+PersonX sells PersonX's body @@ xWant	to shower and feel clean
+PersonX talks about PersonY behind PersonZ's back @@ xWant	to make amends
+PersonX goes camping in the woods @@ xWant	cook fish he caught
+PersonX skips a beat @@ xWant	not to be impressed by the present study
+PersonX takes ___ in the war @@ xWant	fight some more
+PersonX answers the door @@ xWant	them to feel welcome
+PersonX prevents PersonY from giving @@ xWant	to make sure personY doesn't give
+PersonX eats the ice cream @@ xWant	to take a nap
+PersonX has a ___ every day @@ xWant	get dressed
+PersonX feels special @@ xWant	to sing a song
+PersonX finds a wife @@ xWant	Companionship
+PersonX puts PersonX's ___ around PersonY @@ xWant	to cheer up
+gazelle @@ AtLocation	act of running
+basket @@ AtLocation	wicker store
+motherboard @@ AtLocation	repair facility
+snowflake @@ AtLocation	snowstorm
+bee @@ AtLocation	flower or hive
+dental floss @@ AtLocation	dentist
+dynamite @@ AtLocation	box
+crowd @@ AtLocation	sporting event
+hat @@ AtLocation	hat shop
+stethescope @@ AtLocation	doctor
+me @@ AtLocation	friend's wedding
+tap @@ AtLocation	water fountain
+magnet @@ AtLocation	speaker
+screwdriver @@ AtLocation	junk drawer
+silver @@ AtLocation	house
+bus station @@ AtLocation	maps
+fabric @@ AtLocation	fabric store
+cottage @@ AtLocation	woods
+gaffer @@ AtLocation	film set
+aerial bomb @@ AtLocation	military bomber
+cottage cheese @@ AtLocation	refrigerator
+crab in @@ AtLocation	net
+hot rod @@ AtLocation	car show
+overhead projector @@ AtLocation	conference
+first aid kit @@ AtLocation	backpack
+nose @@ AtLocation	face
+night vision monocular @@ AtLocation	sporting goods store
+uneducated foreign security personnel @@ AtLocation	airport
+credit card @@ AtLocation	wallet
+graffitti @@ AtLocation	subway
+cafeteria @@ ObjectUse	store items
+fuel @@ ObjectUse	drive around with
+toy ball @@ ObjectUse	rolling
+gambling money @@ ObjectUse	make the rent
+football @@ ObjectUse	play the game with
+foyer @@ ObjectUse	take off shoes
+theatre @@ ObjectUse	smooch in dark
+teacher @@ ObjectUse	fall in love with
+clothesline @@ ObjectUse	dry clothes
+gps tracking device @@ ObjectUse	find a missing person
+store @@ ObjectUse	hold office space
+clean hands @@ ObjectUse	speak to a deaf person using sign language
+glue @@ ObjectUse	finish the ends
+bank computer @@ ObjectUse	document the deposit
+sauce @@ ObjectUse	dip the food in
+condiments @@ ObjectUse	get rid of heart burn (using mustard)
+privacy @@ ObjectUse	pretend you're invisible
+extension pole @@ ObjectUse	Get a frisbee off roof
+hand sanitizer @@ ObjectUse	keep hands clean
+tie @@ ObjectUse	match suit
+landing gear @@ ObjectUse	land on runway
+bag of ice @@ ObjectUse	skate
+metro pass @@ ObjectUse	forget and be late for work
+band shirt @@ ObjectUse	use as a rag
+wood @@ ObjectUse	create furniture
+spare key @@ ObjectUse	hide under a rock
+vitamin supplements @@ ObjectUse	lose weight
+silver @@ ObjectUse	minting valuable coins
+ziplock bag @@ ObjectUse	make a water balloon
+lamps @@ ObjectUse	tie ropes between to train dog to jump over
+conservationist @@ Desires	help environment
+explorer @@ Desires	adventure
+young woman @@ Desires	new clothes
+nudist @@ Desires	naked
+bee @@ Desires	flower
+night @@ HasProperty	black
+credit card @@ HasProperty	small and plastic
+fabric @@ HasProperty	smooth
+world @@ HasProperty	divided between water and land
+exercise @@ HasProperty	done anywhere person can move
+overhead projector @@ HasProperty	abbreviated to ohp
+silver @@ HasProperty	mined
+disney @@ HasProperty	fun
+snowball @@ HasProperty	made from frozen water
+nose @@ HasProperty	2 nostrils
+pumpkin @@ HasProperty	made into pie
+hunger @@ HasProperty	uncomfortable
+marmite @@ HasProperty	popular in britain
+snowflake @@ HasProperty	very light
+tap @@ HasProperty	found on keg of beer
+vcr @@ HasProperty	found in pawn shop
+hourglass @@ HasProperty	used as timer
+dart board @@ HasProperty	hanging sideways
+peat @@ HasProperty	decaying plant material
+pantyhose @@ HasProperty	made out of nylong
+cottage @@ HasProperty	found in country side
+hat @@ HasProperty	hanging from hook
+maid @@ HasProperty	found in house
+olive oil @@ HasProperty	better for one's health than butter
+every country @@ HasProperty	leader
+dorm @@ HasProperty	communal housing
+dental floss @@ HasProperty	helpful in keeping teeth clean
+underwear @@ HasProperty	found in drawer
+basket @@ HasProperty	woven from fibrous material
+typo @@ HasProperty	common while typing
+nudist @@ NotDesires	cold weather
+muslim @@ NotDesires	eat pork
+lighening @@ Causes	thunder
+hunger @@ Causes	eating
+telepathy @@ Causes	unwanted information to learned
+have checkup @@ HasSubEvent	brush
+exercise @@ HasSubEvent	put on proper clothes
+write letter @@ HasSubEvent	mail
+cook curry @@ HasSubEvent	heat pot
+take bus @@ HasSubEvent	wait at bus stop
+give gift @@ HasSubEvent	somone will smile
+reach impasse @@ HasSubEvent	fatigue and depression
+wake up in morning @@ HasSubEvent	open eyes
+spin @@ HasSubEvent	get dizzy
+finish exam @@ HasSubEvent	turn in
+catch ball @@ HasSubEvent	hand hurts
+browse www @@ HasSubEvent	loose precious time
+fall asleep at wheel @@ HasSubEvent	have accident
+contribute to openmind @@ HasSubEvent	giggle
+hunger @@ HasSubEvent	make tummy growl
+feel hunger @@ HasSubEvent	eat
+exercise @@ xReason	getting fat
+salmon @@ CapableOf	head upstream
+helper @@ CapableOf	hand wrench to mechanic
+maid @@ CapableOf	iron shirts and trousers
+explorer @@ CapableOf	journey to new lands
+nudist @@ CapableOf	sun with no impediments
+bee @@ CapableOf	sting
+false friend @@ CapableOf	let down
+young woman @@ CapableOf	stand rich old man
+bitch @@ CapableOf	mother puppies
+pessimist @@ CapableOf	fear to make deal
+guitar player @@ CapableOf	perfect skills
+cheetah @@ CapableOf	kill thompson's gazelle
+stock broker @@ CapableOf	increase wealth
+mean guy @@ CapableOf	salt wound
+pesron @@ CapableOf	carry person
+quarter back @@ CapableOf	receive foot ball
+gymnest @@ CapableOf	do backflip
+seeker @@ CapableOf	gain enlightement
+black man @@ CapableOf	do better
+apple picker @@ CapableOf	reach apple
+assembler @@ CapableOf	rush job
+rationalist @@ CapableOf	doubt god exists
+dwarf @@ CapableOf	mine gold
+dynamite @@ MadeUpOf	nitroglycerin
+night @@ MadeUpOf	midnight
+hat @@ MadeUpOf	cotton
+nose @@ MadeUpOf	bridge
+awl @@ MadeUpOf	haft
+steam locomotive @@ MadeUpOf	firebox
+fabric @@ MadeUpOf	fibers
+first aid kit @@ MadeUpOf	bandage
+world @@ MadeUpOf	america
+pantyhose @@ MadeUpOf	stocking
+oil tanker @@ MadeUpOf	metal
+atmosphere @@ MadeUpOf	oxygen
+lead pencil @@ MadeUpOf	lead
+spear @@ MadeUpOf	barb
+intact human @@ MadeUpOf	four limbs
+magnet @@ MadeUpOf	core
+school system @@ MadeUpOf	school
+crowd @@ MadeUpOf	people
+automobile engine @@ MadeUpOf	exhaust
+dental floss @@ MadeUpOf	synthetic fibre
+credit card @@ MadeUpOf	magnetic stripe
+pumpkin @@ MadeUpOf	pumpkin seed
+me @@ MadeUpOf	face
+marmite @@ MadeUpOf	yeast
+underwear @@ MadeUpOf	elastic
+snowflake @@ MadeUpOf	six sides
+america @@ MadeUpOf	50 states
+PersonX keeps PersonY together @@ isAfter	PersonX witnesses PersonY's near mental break
+PersonX enters the room @@ isAfter	PersonX opens the door
+PersonX stops PersonY's truck @@ isAfter	PersonX notices PersonY's truck begins to roll
+PersonX has a new baby @@ isAfter	PersonX goes through fertility treatments
+PersonX pays the money @@ isAfter	PersonX found a perfect dress
+PersonX is no longer friends @@ isAfter	PersonX had a fight with his friend
+PersonX treats PersonY with kindness @@ isAfter	PersonX sees that PersonY is homeless
+PersonX tells PersonY's dad @@ isAfter	PersonX greets PersonY's dad at home
+PersonX makes hay @@ isAfter	PersonX has to feed the horses
+PersonX makes PersonY payment @@ isAfter	PersonX makes a loan for PersonY
+PersonX hikes in the woods @@ isAfter	PersonX enjoys being out in nature
+PersonX works hard at it @@ isAfter	PersonX practices each day to learn spanish for their trip to mexico
+PersonX writes PersonY's letters @@ isAfter	PersonX takes out a pen and paper
+PersonX cancels PersonX's appointment @@ isAfter	PersonX does not feel sick anymore
+PersonX is extremely excited @@ isAfter	PersonX arrives at the amusement park
+PersonX plays dumb @@ isAfter	PersonX gets caught in a room they are not allowed in
+PersonX loves nature @@ isAfter	PersonX studies nature
+PersonX uses the phone @@ isAfter	PersonX notices a flat tire
+PersonX gets it @@ isAfter	PersonX reaches for the money
+PersonX brings PersonX's back home @@ isAfter	PersonX sees PersonX walking
+PersonX knocks on wood @@ isAfter	PersonX accidentally jinxes themself
+PersonX always ate @@ isAfter	PersonX drives to restaurant
+PersonX feels relaxed @@ isAfter	PersonX cracks open a cold beer and drinks it
+PersonX is hiking with friends @@ isAfter	PersonX went to the woods
+PersonX is feeling much better @@ isAfter	PersonX takes a nap after a really stressful day at work
+PersonX laughs so hard @@ isAfter	PersonX hears a joke for the first time
+PersonX can n't find PersonY anywhere @@ isAfter	PersonX searches for PersonY at the concert
+PersonX hears PersonX's music @@ isAfter	PersonX records a song
+PersonX drives motorcyle to the beach @@ isAfter	PersonX hops on their motorcycle
+PersonX is driving down the street @@ isAfter	PersonX is headed home from school
+PersonX discusses PersonX's problems @@ isBefore	PersonX makes a plan to deal with their problems
+PersonX passes PersonX's math class @@ isBefore	PersonX goes to next semester's math class
+PersonX makes it work @@ isBefore	PersonX makes a phone call on the now working phone
+PersonX can not find PersonY's car keys @@ isBefore	PersonX searches everywhere for car keys
+PersonX goes a week @@ isBefore	PersonX is not craving it and goes another week
+PersonX makes like a tree and leave @@ isBefore	PersonX calls animal control from a safe location
+PersonX shows all PersonX's friends @@ isBefore	PersonX places the trophy on the shelf
+PersonX finishes the whole thing @@ isBefore	PersonX is sick to their stomach
+PersonX marries PersonY's daughter @@ isBefore	PersonX goes on a honey moon
+PersonX would fall @@ isBefore	PersonX cries out for help
+PersonX is worth thousands of dollars @@ isBefore	PersonX receives money to pay for ransom
+PersonX gives birth to a son @@ isBefore	PersonX nurses the baby
+PersonX expresses PersonX's views @@ isBefore	PersonX says they feel better getting it off their chest
+PersonX looks very nice @@ isBefore	PersonX leaves to go to the party
+PersonX adjusts spacing as well as minimizing @@ isBefore	PersonX submits her paper
+PersonX graduates at the top of PersonX's class @@ isBefore	PersonX finds work right away
+PersonX always lost @@ isBefore	PersonX could not make money and quit a month later
+PersonX gets PersonX's marching orders @@ isBefore	PersonX travels to their base
+PersonX returns to PersonY's house @@ isBefore	PersonX gets the backpack they forgot at PersonY's house
+PersonX hears a crash @@ isBefore	PersonX pulls over to help
+PersonX has a fun time @@ isBefore	PersonX plans to go back again
+PersonX stops PersonX's truck @@ isBefore	PersonX yells at his neighbor and tells him to slow down
+PersonX closes PersonY's eyes again @@ isBefore	PersonX leans over crying
+PersonX asks PersonY to stay @@ isBefore	PersonX tell PersonY they can sleep over
+PersonX demands PersonX's rights @@ isBefore	PersonX chants incessantly
+PersonX talks in class @@ isBefore	PersonX gets sent to the principal's office
+PersonX is at a friend 's house @@ isBefore	PersonX watches tv with friend
+PersonX risks PersonY's lives @@ isBefore	PersonX gets to the destination safely
+PersonX decides to keep it @@ isBefore	PersonX wears it daily
+PersonX fulfils PersonY's needs @@ isBefore	PersonX loves being needed
+PersonX never made ___ @@ isFilledBy	lasagna
+PersonX sets ___ in the earth @@ isFilledBy	stake
+PersonX orders ___ for lunch @@ isFilledBy	steak
+PersonX sells PersonY's ___ to the bidder @@ isFilledBy	car
+PersonX really hit ___ @@ isFilledBy	doors
+PersonX directs ___ away @@ isFilledBy	Animal
+PersonX spends ___ trying @@ isFilledBy	money
+PersonX suddenly got ___ @@ isFilledBy	shirts
+PersonX kills ___ for food @@ isFilledBy	rabbits
+PersonX delivers up the ___ to god @@ isFilledBy	gold
+PersonX crashes ___ into a tree @@ isFilledBy	motorcycles
+PersonX sets aside ___ @@ isFilledBy	plate
+PersonX also ordered ___ @@ isFilledBy	coffee
+PersonX left PersonX's ___ behind PersonY @@ isFilledBy	game
+PersonX connects ___ together @@ isFilledBy	paper
+PersonX works every ___ @@ isFilledBy	mule
+PersonX increases every ___ @@ isFilledBy	woman
+PersonX asks ___ if PersonY could have one @@ isFilledBy	candy
+PersonX keeps the ___ in check @@ isFilledBy	files
+PersonX brings ___ to class @@ isFilledBy	folder
+PersonX takes ___ out for dinner @@ isFilledBy	a date
+PersonX saves every ___ @@ isFilledBy	bottle
+PersonX wraps ___ around PersonY @@ isFilledBy	belt
+PersonX sets ___ aside @@ isFilledBy	rolls
+PersonX takes ___ in the battle @@ isFilledBy	armor
+PersonX works ___ a week @@ isFilledBy	hard
+PersonX wears ___ to work @@ isFilledBy	khakis
+PersonX puts ___ in the microwave @@ isFilledBy	dinner
+PersonX fixes ___ for free @@ isFilledBy	boats
+PersonX buys ___ the other day @@ isFilledBy	toilet paper
+PersonX holds PersonX's head high @@ HinderedBy	PersonX is ashamed of themselves
+PersonX stands PersonY in stead @@ HinderedBy	It's mandatory for PersonY to be there.
+PersonX contacts PersonY's friends @@ HinderedBy	PersonX has lost their phone.
+PersonX leaves PersonY's side @@ HinderedBy	PersonY always follows PersonX.
+PersonX grinds PersonX's gears @@ HinderedBy	Person X's car was stolen.
+PersonX chases the rabbit @@ HinderedBy	PersonX has no legs.
+PersonX improves PersonX's grade @@ HinderedBy	PersonX has lost interest in studying.
+PersonX improves PersonX's condition @@ HinderedBy	Their husband spends too much money.
+PersonX demands money @@ HinderedBy	PersonX is submissive
+PersonX loses the ball @@ HinderedBy	The ball is very bright and hard to miss.
+PersonX reaches PersonX's house @@ HinderedBy	PersonX is lost.
+PersonX has the world by the tail @@ HinderedBy	PersonX does not have formal education.
+PersonX knows the answer @@ HinderedBy	PersonX's kid isn't giving the answer.
+PersonX saves all PersonX's money @@ HinderedBy	PersonX is a spendthrift.
+PersonX works very hard at PersonX's job @@ HinderedBy	PersonX is very lazy.
+PersonX arrives to the restaurant @@ HinderedBy	The restaurant is closed
+PersonX is going really well @@ HinderedBy	PersonX is sick from Jane's bug
+PersonX gets the point @@ HinderedBy	PersonX lacks the understanding
+PersonX sleeps through PersonX's alarm @@ HinderedBy	PersonX has to attend class to hand in their homework.
+PersonX has a good job @@ HinderedBy	PersonX's mother moved him into isolation, far from the good jobs.
+PersonX looks at one another @@ HinderedBy	They're too ashamed to look at them
+PersonX later told PersonY @@ HinderedBy	PersonX forgets what they wanted to say
+PersonX makes hay @@ HinderedBy	personX is too far behind to catch up
+PersonX is really cute @@ HinderedBy	They are physically disfigured.
+PersonX starts PersonX's new job @@ HinderedBy	They didn't get the job
+PersonX flies the coop @@ HinderedBy	Person X doesn't have good credit.
+PersonX plays an instrument @@ HinderedBy	PersonX does not have an instrument
+PersonX takes up PersonY's position @@ HinderedBy	PersonX lacks the proper qualifications.
+PersonX finds a wallet on the street @@ HinderedBy	No one has dropped a wallet.
+PersonX gets a great deal @@ HinderedBy	PersonX is always a day late.

@@ -1,0 +1,69 @@
+PersonX teaches children ___ @@ oEffect	learns skills
+PersonX gives ___ to people @@ oEffect	have new hair
+PersonX sits with PersonY's friends @@ oEffect	gets thanked for introducing a new friend to PersonX
+PersonX buys a new tv @@ oReact	none
+PersonX takes ___ of one @@ oReact	like x has their thumb on the pulse.
+PersonX gives PersonY a hard time @@ oReact	humiliated.
+PersonX prepares for PersonY emergency @@ oWant	to thank PersonX
+PersonX crashes ___ into a tree @@ oWant	none
+PersonX reels the fish @@ oWant	rental income off the boat X rented.
+PersonX blows PersonY away @@ xAttr	special
+PersonX attends PersonY meeting @@ xAttr	conscientious
+PersonX files for divorce @@ xAttr	uncaring
+PersonX moves to hollywood @@ xEffect	unpacks items
+PersonX has dinner at PersonY's house @@ xEffect	go home
+PersonX fixes PersonY's roof @@ xEffect	dies
+PersonX loves PersonX's ___ as PersonX's bodies @@ xIntent	to be boastful
+PersonX becomes famous @@ xIntent	none
+PersonX is playing football @@ xIntent	to get better
+PersonX makes ___ in class @@ xNeed	to attend class
+PersonX drives ___ to the store @@ xNeed	none
+PersonX goes on PersonY @@ xNeed	Climb on PersonY
+PersonX asks to talk @@ xReact	timid
+PersonX eats ___ all the time @@ xReact	like its good and good for him
+PersonX checks PersonY's account @@ xReact	jealous
+PersonX sells PersonX's old car @@ xWant	spend the money
+PersonX allows PersonY access @@ xWant	To open the gate for Y
+PersonX puts ___ aside @@ xWant	to eat more if it after
+cobblestone @@ AtLocation	field
+puck @@ AtLocation	locker room
+noise @@ AtLocation	big city
+microphone @@ ObjectUse	speak louder
+tool @@ ObjectUse	cut things
+radio @@ ObjectUse	play the broadcast
+person @@ Desires	sweet things to ear
+people @@ Desires	quiet
+hobo @@ Desires	pie
+lot @@ HasProperty	considered share of
+paper @@ HasProperty	dyed
+wikipedia @@ HasProperty	informational
+person @@ NotDesires	politcal madness
+workaholic @@ NotDesires	go home
+cat @@ NotDesires	get wet
+tooth paste @@ Causes	harm to fish
+drug use @@ Causes	physical or psychological illness
+sexual arousal @@ Causes	erection
+take phone call @@ HasSubEvent	say good bye
+send criminal to prison @@ HasSubEvent	execution
+cut down tree @@ HasSubEvent	plant another one
+stand in line @@ xReason	wait turn
+dance @@ xReason	liked dancing
+run out of steam @@ xReason	have exerted physical energy
+teacher @@ CapableOf	teach pupils
+motehr @@ CapableOf	sing to baby
+customer @@ CapableOf	demand check
+ship @@ MadeUpOf	fin
+line @@ MadeUpOf	drip loop
+body @@ MadeUpOf	blood
+PersonX sets the wheels in motion @@ isAfter	PersonX comes up with a plan
+PersonX meets PersonY's responsibilities @@ isAfter	PersonX is asked by PersonY to do their chores
+PersonX is making dinner @@ isAfter	PersonX gets home from work
+PersonX returns to PersonY's home @@ isBefore	PersonX rings the doorbell
+PersonX has to go back to work @@ isBefore	PersonX sets their alarm for the first day back
+PersonX loves to play baseball @@ isBefore	PersonX joins the local baseball team
+PersonX draws ___ together @@ isFilledBy	strings
+PersonX takes ___ to the counter @@ isFilledBy	bread
+PersonX pushes the ___ far @@ isFilledBy	table
+PersonX makes anything @@ HinderedBy	PersonX has no materials
+PersonX hears a noise behind PersonY @@ HinderedBy	PersonX's mom was yelling so loud that it made everything else inaudable
+PersonX tries to ignore PersonY @@ HinderedBy	PersonX is a nosy person.

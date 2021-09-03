@@ -1,0 +1,66 @@
+PersonX removes ___ from power @@ oEffect	they get jailed
+PersonX gets a summer job @@ oEffect	none
+PersonX answers PersonY's question @@ oEffect	People learn the answer
+PersonX studies ___ carefully @@ oReact	none
+PersonX is due today @@ oReact	happy
+PersonX polishes a turd @@ oReact	let down.
+PersonX helps PersonY learn @@ oWant	to thank PersonX for the help
+PersonX holds PersonY's head @@ oWant	to be messaged
+PersonX gets PersonY information @@ oWant	to yell at him
+PersonX causes ___ in patients @@ xAttr	dangerous
+PersonX drinks ___ every morning @@ xAttr	Slothful
+PersonX fulfills PersonX's dream @@ xAttr	skilled
+PersonX works a lot @@ xEffect	gets tired
+PersonX reaches PersonX's house @@ xEffect	They put their key in the front door to open it
+PersonX exposes oneself @@ xEffect	Person x trembles
+PersonX would fall @@ xIntent	none
+PersonX surprises ___ with tickets @@ xIntent	them to go out and have fun
+PersonX uses the ___ to find @@ xIntent	get information
+PersonX lights a match @@ xNeed	hold the matchbook
+PersonX works hard @@ xNeed	want to get a promotion
+PersonX plays PersonX's best @@ xNeed	to get opportunity
+PersonX laughs at PersonY's antics @@ xReact	agreeable
+PersonX does well on the test @@ xReact	accomplished
+PersonX loves halloween @@ xReact	imaginative
+PersonX works very hard @@ xWant	to complete this work quickly to bag more orders
+PersonX holds ___ for year @@ xWant	take a vacation
+PersonX practices ___ for years @@ xWant	attain a high level of skill
+bee @@ AtLocation	bubolic area
+museum wing @@ AtLocation	smithsonian
+nose @@ AtLocation	middle of human face
+salesperson @@ ObjectUse	purchase a handbag from
+secret @@ ObjectUse	bug
+hand sanitizer @@ ObjectUse	use after responding to the bell ringing for help
+explorer @@ Desires	adventure
+bee @@ Desires	flower
+young woman @@ Desires	new clothes
+exercise @@ HasProperty	important to living long life
+world @@ HasProperty	many different cultures
+pumpkin @@ HasProperty	made into pie
+nudist @@ NotDesires	cold weather
+muslim @@ NotDesires	eat pork
+hunger @@ Causes	discomfort
+telepathy @@ Causes	unwanted information to learned
+lighening @@ Causes	thunder
+take bus @@ HasSubEvent	sit down
+reach impasse @@ HasSubEvent	stop whatever doing
+give gift @@ HasSubEvent	gratitude
+exercise @@ xReason	getting fat
+cheetah @@ CapableOf	run faster than person
+nudist @@ CapableOf	wear nothing
+explorer @@ CapableOf	discover new territory
+dynamite @@ MadeUpOf	nitroglycerin
+snowflake @@ MadeUpOf	six sides
+fabric @@ MadeUpOf	thread
+PersonX eats dinner with PersonY @@ isAfter	PersonX takes PersonY to a restaurant
+PersonX loves PersonY's girlfriend @@ isAfter	PersonX meets PersonY's girlfriend
+PersonX opens the envelope @@ isAfter	PersonX onx receives an envelope in the mail
+PersonX drives the porcelain bus @@ isBefore	PersonX decides to sell the bus cause he doesn't like it anymore
+PersonX starts a new job @@ isBefore	PersonX finds happiness in the new job
+PersonX fights PersonX's battle @@ isBefore	PersonX feels good about sticking up for themselves
+PersonX grows ___ by year @@ isFilledBy	corn
+PersonX turns the enemy 's ___ @@ isFilledBy	face
+PersonX sets PersonX's ___ on fire @@ isFilledBy	house
+PersonX divides PersonX's time @@ HinderedBy	Person x is working on a project
+PersonX makes a cup of coffee @@ HinderedBy	personX has no coffee grounds
+PersonX works hard all summer @@ HinderedBy	PersonX is out of the country all summer

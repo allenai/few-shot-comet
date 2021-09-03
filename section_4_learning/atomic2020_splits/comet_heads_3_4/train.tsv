@@ -1,0 +1,69 @@
+PersonX supplies PersonY with food @@ oEffect	stops complaining about hunger
+PersonX puts ___ in my mouth @@ oEffect	becomes embarrassed
+PersonX hurts PersonY so much @@ oEffect	screams in pain
+PersonX takes ___ to the grocery store @@ oReact	good they got their shopping done
+PersonX eats lunch together @@ oReact	like it's good to have a friend
+PersonX makes PersonY answer @@ oReact	helpless
+PersonX affords PersonY opportunity @@ oWant	to make the most of the chance
+PersonX says would see @@ oWant	none
+PersonX scratches PersonY's head @@ oWant	thank personX
+PersonX reduces ___ to a level @@ xAttr	wise
+PersonX gets full @@ xAttr	uncomfortable
+PersonX gets ___ safely @@ xAttr	careful
+PersonX bursts into tears @@ xEffect	NONE
+PersonX occupies PersonY place @@ xEffect	they wear out their welcome
+PersonX goes to PersonX's local electronics store @@ xEffect	Browses for new toys
+PersonX shields PersonX's ___ from the sun @@ xIntent	not go blind
+PersonX wants to make some money @@ xIntent	to earn
+PersonX tilts PersonY's head to the side @@ xIntent	to be assertive
+PersonX takes ___ that day @@ xNeed	none
+PersonX likes PersonY back @@ xNeed	to receive a like on facebook from PersonY
+PersonX buys a new shirt @@ xNeed	to go to the store
+PersonX takes PersonY to see @@ xReact	proud
+PersonX keeps an eye open @@ xReact	suspicious
+PersonX watches PersonY's show @@ xReact	happy
+PersonX runs away from PersonY @@ xWant	laugh
+PersonX keeps the pot boiling @@ xWant	to cook
+PersonX also practiced @@ xWant	to do a good job
+water @@ AtLocation	septic tank
+beer @@ AtLocation	mars
+population @@ AtLocation	area with people inhabiting
+diploma @@ ObjectUse	finish school
+container @@ ObjectUse	close up
+fanny pack @@ ObjectUse	hold extraneous items
+person @@ Desires	parking place
+american @@ Desires	pursue happiness
+people @@ Desires	avoid injuries
+gel @@ HasProperty	sticky
+pistol @@ HasProperty	dangerous
+school @@ HasProperty	primary purpose of teaching students
+person @@ NotDesires	egg on face
+investor @@ NotDesires	stock market to crash
+writer @@ NotDesires	rejection slip
+sexual arousal @@ Causes	erection
+strobe light @@ Causes	epileptic seizures
+moisture @@ Causes	dampness
+mail letter @@ HasSubEvent	returned postage due
+surf @@ HasSubEvent	ride waves
+design software @@ HasSubEvent	plan logic
+play @@ xReason	bored
+eat quickly @@ xReason	very hungry
+run out of steam @@ xReason	did not eat breakfast
+mum @@ CapableOf	iron shirt
+person @@ CapableOf	open doors
+bird @@ CapableOf	feed worms to young
+neck @@ MadeUpOf	cervical artery
+church @@ MadeUpOf	amen corner
+tail @@ MadeUpOf	dock
+PersonX rubs at PersonY's eyes @@ isAfter	PersonX notices PersonY is crying
+PersonX stands around PersonY @@ isAfter	PersonX goes to a ballgame
+PersonX brings PersonY along @@ isAfter	PersonX asks if PersonY can join us
+PersonX cleans everything @@ isBefore	PersonX gets another glass of milk
+PersonX hides in PersonY's closet @@ isBefore	PersonX is scared and is still scared
+PersonX looks PersonY in the eyes @@ isBefore	PersonX asks them the question
+PersonX fights ___ by side @@ isFilledBy	the police
+PersonX leaves ___ in PersonY's room @@ isFilledBy	Keys
+PersonX takes ___ to a restaurant @@ isFilledBy	money
+PersonX takes the offensive @@ HinderedBy	PersonX's coach has refused to let PersonX play offense.
+PersonX takes the cat to the vet @@ HinderedBy	The vet's office is closed today
+PersonX writes a short story @@ HinderedBy	PersonX is not creative

@@ -1,0 +1,66 @@
+PersonX looks at PersonY's hands @@ oEffect	asks X why he is staring
+PersonX shakes my head @@ oEffect	demand an answer
+PersonX pays the money @@ oEffect	gets more money
+PersonX posts photos @@ oReact	amused
+PersonX holds another ___ @@ oReact	none
+PersonX fights PersonY battle @@ oReact	grateful
+PersonX has trouble breathing @@ oWant	none
+PersonX starts going off @@ oWant	to disagree with PersonX
+PersonX saves up PersonY's money @@ oWant	to get the money and spend it
+PersonX never bothered @@ xAttr	content
+PersonX spends too much money @@ xAttr	broke
+PersonX cuts ___ in half @@ xAttr	helpful
+PersonX makes a budget @@ xEffect	none
+PersonX holds PersonX's ___ in PersonX's hand @@ xEffect	they know where it's at
+PersonX recently purchased ___ @@ xEffect	person x goes to concert
+PersonX shops for new clothes @@ xIntent	to have a nice wardrobe
+PersonX discusses PersonX's problems @@ xIntent	to resolve an issue
+PersonX is a great baker @@ xIntent	none
+PersonX is babysitting for a new family @@ xNeed	to have a job interview
+PersonX owns a house @@ xNeed	to speak to a realtor
+PersonX drives to the mountains @@ xNeed	pack a lunch
+PersonX walks my dog ___ @@ xReact	like it's one less thing they have to worry about
+PersonX sees past the end of PersonX's nose @@ xReact	inspired
+PersonX drinks PersonY's coffee @@ xReact	mean
+PersonX can n't find PersonX's shoes @@ xWant	to look in car
+PersonX looks inside @@ xWant	to find out what's inside
+PersonX plays harder @@ xWant	Win
+bee @@ AtLocation	meadow looking for flowers
+white space @@ AtLocation	end of line
+gazelle @@ AtLocation	svanna
+fuel @@ ObjectUse	power the tow truck
+temporary tags @@ ObjectUse	use temporarily while your tags are made.
+anesthetic @@ ObjectUse	knock out a foe.
+nudist @@ Desires	naked
+explorer @@ Desires	adventure
+conservationist @@ Desires	help environment
+world @@ HasProperty	populated with people
+hunger @@ HasProperty	uncomfortable
+fabric @@ HasProperty	made up of thousands of threads
+nudist @@ NotDesires	cold weather
+muslim @@ NotDesires	eat pork
+hunger @@ Causes	discomfort
+lighening @@ Causes	thunder
+telepathy @@ Causes	unwanted information to learned
+have checkup @@ HasSubEvent	go to doctor's office
+catch ball @@ HasSubEvent	hand hurts
+cook curry @@ HasSubEvent	serve
+exercise @@ xReason	you're fat
+stock broker @@ CapableOf	increase wealth
+pesron @@ CapableOf	carry person
+explorer @@ CapableOf	discover previously unknown
+dynamite @@ MadeUpOf	diatomaceous earth
+fabric @@ MadeUpOf	hem
+me @@ MadeUpOf	face
+PersonX makes candy @@ isAfter	PersonX lays out his ingredients on the table
+PersonX saves so much money @@ isAfter	PersonX buys in bulk
+PersonX sounds good to PersonY @@ isAfter	PersonX asks their friend to be set up on a date
+PersonX watches birds @@ isBefore	PersonX writes about the birds they see
+PersonX sets PersonY aside @@ isBefore	PersonX has a serious conversation with PersonY
+PersonX gets free food @@ isBefore	PersonX knows that he lied but he is happy he gets to eat for free
+PersonX lights ___ on fire @@ isFilledBy	newspapers
+PersonX takes the test ___ @@ isFilledBy	paper
+PersonX reviews every ___ @@ isFilledBy	painting
+PersonX makes PersonY's friends laugh @@ HinderedBy	PersonX is too sick.
+PersonX is a high school student @@ HinderedBy	PersonX's girlfriend killed PersonX
+PersonX is getting a divorce @@ HinderedBy	PersonX won't leave their partner.

@@ -1,0 +1,66 @@
+PersonX gets ___ for free @@ oEffect	none
+PersonX wrappeds around PersonY @@ oEffect	get warmed
+PersonX shakes PersonY's head again @@ oEffect	Gets dizzy
+PersonX rubs PersonY's hand @@ oReact	loved
+PersonX makes PersonY's feel better @@ oReact	happy.
+PersonX feels comfortable @@ oReact	none
+PersonX hikes in the woods ___ @@ oWant	none
+PersonX slips from PersonY's hands @@ oWant	to catch hold of person X
+PersonX pays another ___ @@ oWant	to show their appreciation
+PersonX marries PersonY daughter @@ xAttr	caring
+PersonX causes PersonY explosion @@ xAttr	devious
+PersonX raises ___ from sources @@ xAttr	smart
+PersonX draws a picture @@ xEffect	take crayons to draw
+PersonX sees PersonY clearly @@ xEffect	nice
+PersonX settles ___ by means @@ xEffect	becomes popular in society
+PersonX also ordered ___ @@ xIntent	to watch movies
+PersonX is afraid of the dark @@ xIntent	none
+PersonX gets divorced @@ xIntent	to try something different
+wake up in morning @@ xNeed	going to bed
+PersonX spends a weekend @@ xNeed	none
+PersonX plans PersonY's wedding @@ xNeed	to make a budget
+PersonX breaks the screen @@ xReact	embarrassed
+PersonX is playing in the snow @@ xReact	tired
+PersonX leads to PersonY understanding @@ xReact	proud
+PersonX gives PersonY the heave-ho @@ xWant	moves on to next person
+PersonX tells PersonY to stay @@ xWant	to go out with PersonY
+PersonX jumps on PersonY @@ xWant	Talk to Person X
+lead pencil @@ AtLocation	school desk
+cute men @@ AtLocation	fraternity house
+underwear @@ AtLocation	sock drawer
+photos @@ ObjectUse	find a lost person
+hat @@ ObjectUse	protect head from cold
+pockey @@ ObjectUse	keep money in
+conservationist @@ Desires	help environment
+nudist @@ Desires	naked
+young woman @@ Desires	new clothes
+night @@ HasProperty	black
+world @@ HasProperty	made up of mostly water
+peat @@ HasProperty	decaying plant material
+muslim @@ NotDesires	eat pork
+nudist @@ NotDesires	cold weather
+hunger @@ Causes	eating
+lighening @@ Causes	thunder
+telepathy @@ Causes	unwanted information to learned
+take bus @@ HasSubEvent	standing without seat
+cook curry @@ HasSubEvent	serve guests
+feel hunger @@ HasSubEvent	eat
+exercise @@ xReason	getting fat
+assembler @@ CapableOf	rush job
+false friend @@ CapableOf	let down
+bee @@ CapableOf	sting face
+underwear @@ MadeUpOf	elastic
+snowflake @@ MadeUpOf	six sides
+world @@ MadeUpOf	countries
+PersonX tells PersonY's landlord @@ isAfter	PersonX s toilet breaks
+PersonX uses both hands @@ isAfter	PersonX grabs PersonY's neck
+PersonX swims to shore @@ isAfter	PersonX jumps out of the boat
+PersonX has n't seen PersonY in years @@ isBefore	PersonX runs towards and greets PersonY
+PersonX returns to PersonY's homeland @@ isBefore	PersonX greets PersonX's relatives
+PersonX asks PersonY to show @@ isBefore	PersonX offers PersonY money to trade for the card
+PersonX watches ___ every day @@ isFilledBy	dogs
+PersonX takes ___ out for dinner @@ isFilledBy	dad
+PersonX lights a fire under ___ @@ isFilledBy	stove
+PersonX runs behind @@ HinderedBy	PersonX's boss picked them up for work today.
+PersonX secures PersonY's position @@ HinderedBy	The position was filled yesterday
+PersonX takes up PersonY's position @@ HinderedBy	PersonY is not retiring anytime soon.

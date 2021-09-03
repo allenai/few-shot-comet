@@ -1,0 +1,66 @@
+PersonX accepts god 's ___ @@ oEffect	none
+PersonX tells bill @@ oEffect	listen
+PersonX invites PersonY to join @@ oEffect	Waits in line
+PersonX teaches men the ___ @@ oReact	informed
+PersonX takes ___ of the situation @@ oReact	safe
+PersonX takes ___ out to dinner @@ oReact	full
+PersonX leaves the food @@ oWant	none
+PersonX leaves ___ at home @@ oWant	to let them go get it
+PersonX puts up or shut up @@ oWant	fire person x
+PersonX takes PersonY out for dinner @@ xAttr	Kind
+PersonX takes a bite @@ xAttr	gluttonous
+PersonX collects baseball cards @@ xAttr	Relaxed
+PersonX is running low @@ xEffect	decreased security
+PersonX visits PersonX's dad @@ xEffect	X travels as part of the visit.
+PersonX gets a basket @@ xEffect	chooses a few apples and puts them in basket
+PersonX applies to medical school @@ xIntent	to be a doctor
+PersonX wraps around PersonY's neck @@ xIntent	to strangle person
+PersonX accepts the invitation @@ xIntent	to be polite
+PersonX kisses PersonY on the mouth @@ xNeed	Brush their teeth/use mouthwash
+PersonX tells the manager @@ xNeed	to be near the manager
+PersonX finishes baking @@ xNeed	to preheat oven
+PersonX reaches PersonX's house @@ xReact	secure
+PersonX answers PersonY's letter @@ xReact	accomplished
+PersonX gets a promotion @@ xReact	they feel grateful
+PersonX grabs PersonY's hands @@ xWant	comfort PersonY
+PersonX lays PersonX's ___ upon PersonY @@ xWant	to sleep
+PersonX becomes fast friends @@ xWant	to cultivate their friendship
+hat @@ AtLocation	shelf
+bee @@ AtLocation	pine tree
+gazelle @@ AtLocation	wilderness of africa
+basket @@ ObjectUse	hold sheets
+temporary tags @@ ObjectUse	be allowed to drive
+cupboard @@ ObjectUse	store the bottle in
+conservationist @@ Desires	help environment
+bee @@ Desires	flower
+nudist @@ Desires	naked
+world @@ HasProperty	4 oceans
+dental floss @@ HasProperty	helpful in keeping teeth clean
+hunger @@ HasProperty	uncomfortable
+muslim @@ NotDesires	eat pork
+nudist @@ NotDesires	cold weather
+telepathy @@ Causes	unwanted information to learned
+lighening @@ Causes	thunder
+hunger @@ Causes	eating
+cook curry @@ HasSubEvent	kill curry
+write letter @@ HasSubEvent	sign signature
+spin @@ HasSubEvent	get dizzy
+exercise @@ xReason	getting fat
+maid @@ CapableOf	air bedclothes
+stock broker @@ CapableOf	increase wealth
+pesron @@ CapableOf	carry person
+world @@ MadeUpOf	america
+school system @@ MadeUpOf	school
+nose @@ MadeUpOf	turbinate bone
+PersonX breaks eye contact @@ isAfter	PersonX stares at the dog
+PersonX buys an apple @@ isAfter	PersonX goes to the farmer's market
+PersonX accepts the invitation @@ isAfter	PersonX opens the mail
+PersonX crosses PersonY's arms @@ isBefore	PersonX releases PersonY's arms
+PersonX wants to be a lawyer @@ isBefore	PersonX applies to a prestigious law school
+PersonX waits nervously @@ isBefore	PersonX receives a good grade on the exam
+PersonX leaves the ___ within days @@ isFilledBy	room
+PersonX removes ___ from the blood @@ isFilledBy	clothes
+PersonX lets ___ off with a warning @@ isFilledBy	cat
+PersonX has the most unruly curly hair @@ HinderedBy	Due to their genetics they have very straight, fine hair.
+PersonX is always nervous @@ HinderedBy	PersonX is an optimist.
+PersonX wastes time @@ HinderedBy	Person x can't get fired

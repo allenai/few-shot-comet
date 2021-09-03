@@ -1,0 +1,69 @@
+PersonX calls ___ back @@ oEffect	none
+PersonX offer PersonY the job @@ oEffect	person y gains knowlege
+PersonX loses PersonY's grip @@ oEffect	fall to ground
+PersonX fights a losing battle @@ oReact	sympathetic
+PersonX continues PersonY's search @@ oReact	uncertain to tell.
+PersonX talks to PersonY about anything @@ oReact	grateful to be heard, understood
+PersonX gives PersonY one @@ oWant	to see what PersonX is giving them
+PersonX becomes PersonY advocate @@ oWant	to pay PersonY for the defense
+PersonX sends the ___ back @@ oWant	none
+PersonX takes PersonY to get @@ xAttr	mindless
+PersonX removes PersonY's clothes @@ xAttr	sexy
+PersonX sees the cat @@ xAttr	nearsighted
+PersonX always felt ___ @@ xEffect	doesn't stress out
+PersonX knows PersonX's ___ best @@ xEffect	does not waste his time
+PersonX spends that night @@ xEffect	is rested
+PersonX pleases every ___ @@ xIntent	show kindness
+PersonX starts a fight @@ xIntent	to pick on someone
+PersonX rides around @@ xIntent	to take in the scenery
+PersonX kills PersonY's wife @@ xNeed	to have a weapon
+PersonX buys ___ for PersonX's family @@ xNeed	find a job
+PersonX reads a new book @@ xNeed	find out about the new book
+PersonX shares PersonY's thoughts @@ xReact	informative
+PersonX takes PersonY to work @@ xReact	satisfied
+PersonX washes everything @@ xReact	clean
+PersonX gets PersonX's eyes checked @@ xWant	to get surgery
+PersonX gives PersonY sign @@ xWant	to make more signals at him
+PersonX activates a shadow over everyone @@ xWant	To be dominant
+city @@ AtLocation	united states
+catwalk @@ AtLocation	construction site
+pain @@ AtLocation	but
+printer @@ ObjectUse	print out information
+beanbag chair @@ ObjectUse	provide extra seating
+money @@ ObjectUse	buy the grooming items
+people @@ Desires	listened to when talk
+chipmunk @@ Desires	nuts
+person @@ Desires	clean bedding
+license @@ HasProperty	similar to permit
+candle @@ HasProperty	snuffed
+grease @@ HasProperty	found in kitchen
+person @@ NotDesires	hair in ears
+animal @@ NotDesires	starve
+employee @@ NotDesires	job
+light match @@ Causes	start fire
+earthquake @@ Causes	disaster
+sex @@ Causes	burning calories
+design software @@ HasSubEvent	determine deliverables
+scuba dive @@ HasSubEvent	take off scuba gear
+play ball @@ HasSubEvent	put on mit
+run out of steam @@ xReason	did not eat breakfast
+live life @@ xReason	have no other choice
+drink alcohol @@ xReason	you're stupid
+horse whisperer @@ CapableOf	train horse
+fisherman @@ CapableOf	fish stream
+waiter @@ CapableOf	serve customers
+compressor @@ MadeUpOf	cylinder
+electric motor @@ MadeUpOf	stator
+car @@ MadeUpOf	automobile engine
+PersonX helps PersonY's team win @@ isAfter	PersonX runs fast
+PersonX comes back tomorrow @@ isAfter	PersonX leaves for the day
+PersonX gives you PersonY answer @@ isAfter	PersonX asks what the answer is but hears no responses
+PersonX takes care of a PersonY @@ isBefore	PersonX leaves PersonY
+PersonX has a great vacation @@ isBefore	PersonX feels happier when returning to work
+PersonX tries to quit on PersonX's own @@ isBefore	PersonX fails to quit
+PersonX takes ___ across the country @@ isFilledBy	a bike
+PersonX finds ___ together @@ isFilledBy	the papers
+PersonX gets ___ in return @@ isFilledBy	gift cards
+PersonX goes from strength to strength @@ HinderedBy	PersonX doesn't pay attention to detail and keeps failing
+PersonX thinks PersonY wad imagining what PersonY was seeing @@ HinderedBy	PersonX was seeing the same thing.
+PersonX grips PersonY's breasts @@ HinderedBy	PersonX isn't close to PersonY.
