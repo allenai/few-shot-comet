@@ -8,3 +8,12 @@ This repository contains code for Analyzing Commonsense Emergence in Few-Shot Kn
 - Section 5 contains code for generating the analysis on L1 distances, angular distance, and AUC curve heatmaps.
 
 Since the codebases are mostly independent, please refer to the `README.md` in each corrasponding folder for information on setting up your enviroment, downloading files, and running scripts.
+
+## Notes
+
+- For public inquiries, please create a GitHub issue with questions and suggestions. We suggest that you create a pull request instead of an issue for fixes and updates.
+- Please contact jeffd@allenai.org for any private inquiries.
+
+## License
+
+This work is under the Apache 2.0 license.
