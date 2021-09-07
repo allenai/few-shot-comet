@@ -101,7 +101,7 @@ def get_s_l(filename):
                     largest = max(i, largest)
                     smallest = min(i, smallest)
     return smallest, largest
-names = ['cossim_decoder_11b-shuffled-30-moresigfigs.tsv', 'cossim_decoder_11b-para-30-moresigfigs.tsv', 'l1_decoder_11b-para-30-1.tsv', 'l1_decoder_11b-shuffled-30-1.tsv', 'l1_decoder_11b-comet-30.tsv', 'l1_decoder_11b-300.tsv', 'l1_decoder_11b-30.tsv', 'l1_decoder_11b-3.tsv', 'l1_decoder_large-3_new.tsv', 'l1_decoder_large-30_new.tsv', 'l1_decoder_large-300_new.tsv', 'l1_decoder_small-30_new.tsv', 'l1_decoder_small-300_new.tsv',  'l1_decoder_small-3_new.tsv']
+names = ['calculated_values.tsv']
 names_new = []
 for n in names:
     names_new.append(n)
@@ -111,14 +111,7 @@ names = names_new
 names_new = []
 for n in names:
     names_new.append(n)
-    if "chili" in n:
-        continue
-    if "moresigfigs" in n:
-        continue
-    if "11b-comet-30" not in n:
-        names_new.append(n.replace('l1', 'cossim'))
-    else:
-        names_new.append(n.replace('l1', 'cossim').replace('.tsv', '_new.tsv'))
+    names_new.append(n.replace('l1', 'cossim').replace('.tsv', '_new.tsv'))
 
 names = names_new
 
