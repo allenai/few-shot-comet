@@ -1,16 +1,23 @@
 import logging
-
 from typing import List, Any
 
 import os
 import functools
-import tensorflow as tf
 import t5
-from t5.data import MixtureRegistry, TaskRegistry
+import tensorflow.compat.v1 as tf
+import seqio
 
 from t5_runner.t5_mixtures import t5_mixtures_map
 
 logger = logging.getLogger(__name__)
+DEFAULT_OUTPUT_FEATURES = {
+    "inputs":
+        seqio.Feature(
+            vocabulary=t5.data.get_default_vocabulary(), add_eos=True),
+    "targets":
+        seqio.Feature(
+            vocabulary=t5.data.get_default_vocabulary(), add_eos=True)
+}
 
 
 def dataset_preprocessor(ds):
@@ -39,7 +46,9 @@ def tsv_get_path(a_data_dir, split):
 
 def tsv_dataset_fn(split,
                    shuffle_files=False,
-                   dataset=""):
+                   dataset=""):                             
+                   # this function helps loading dataset. triples in dataset are stored as "{h} {r}\t{t}"
+                   # see example in ./atomic2020_splits/comet_heads_3_0
     ds = tf.data.TextLineDataset(tsv_get_path(dataset, split))
     ds = ds.map(
         functools.partial(tf.io.decode_csv, record_defaults=["", ""], field_delim="\t", use_quote_delim=False),
@@ -60,7 +69,7 @@ class T5DataHelper:
         return "temp_dataset"
 
     def __init__(self,
-                 mixture_dir: str,
+                 mixture_dir: str,  # dir to dataset, e.g ./atomic2020_splits/comet_heads_3_0
                  is_local: bool = False
                  ):
 
@@ -69,7 +78,7 @@ class T5DataHelper:
             for d in datasets:
                 self.register_dataset(dataset_name=d, dataset_path=mixture_dir)
             self.register_mixture(mixture_name=T5DataHelper.get_temp_mixture_name(), datasets=datasets)
-            assert T5DataHelper.get_temp_mixture_name() in MixtureRegistry.names(), f"Temp mixture name: {T5DataHelper.get_temp_mixture_name()} is not in {MixtureRegistry.names()}"
+            assert T5DataHelper.get_temp_mixture_name() in seqio.MixtureRegistry.names(), f"Temp mixture name: {T5DataHelper.get_temp_mixture_name()} is not in {seqio.MixtureRegistry.names()}"
         else:
             print(f"Registering all previously existing datasets...")
             for dataset_name, datasetinfo in beaker_dataset_file_map.items():
@@ -93,19 +102,34 @@ class T5DataHelper:
                          splits:List[str] = ["train", "dev", "test"]
                          ):
         logger.info(f"Registering dataset: {dataset_name}")
-
-        t5.data.TaskRegistry.add(
+    
+        seqio.TaskRegistry.remove(f"{dataset_name}")
+        seqio.TaskRegistry.add(
             f"{dataset_name}",
-            dataset_fn=functools.partial(tsv_dataset_fn, dataset=dataset_path),
-            splits=splits,
-            text_preprocessor=[dataset_preprocessor],
-            sentencepiece_model_path=t5.data.DEFAULT_SPM_PATH,
+            # Specify the task source.
+            source=seqio.FunctionDataSource(
+                # Supply a function which returns a tf.data.Dataset.
+                dataset_fn=functools.partial(tsv_dataset_fn, dataset=dataset_path),
+                splits=["train", "dev"]
+            ),
+            # Supply a list of functions that preprocess the input tf.data.Dataset.
+            preprocessors=[
+                dataset_preprocessor,
+                seqio.preprocessors.tokenize_and_append_eos,
+            ],
+            # Lowercase targets before computing metrics.
             postprocess_fn=t5.data.postprocessors.lower_text,
+            # We'll use accuracy as our evaluation metric.
             metric_fns=metrics_fns,
+            output_features=DEFAULT_OUTPUT_FEATURES,
         )
 
+    # need to register mixture/dataset, followed API of T5
+    # it will be recorded in a global variable, 
+    # then be used to load data
     def register_mixture(self, mixture_name, datasets: List[Any]):
-        t5.data.MixtureRegistry.add(
+        seqio.MixtureRegistry.remove(mixture_name)
+        seqio.MixtureRegistry.add(
             mixture_name,
             [d for d in datasets],
             default_rate=1.0
